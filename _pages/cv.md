@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 Education
 ======
 * B.S. in Computer Science, University of Stuttgart, 2022
