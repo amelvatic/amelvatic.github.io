@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi
+Hello! I am a student of computer science at the University of Stuttgart.
