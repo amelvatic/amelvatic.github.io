@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Nov 2023: Software Developer
+* November 2023: Software Developer
   * itestra GmbH
   * Duties included: Software Development
 
