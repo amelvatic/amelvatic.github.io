@@ -16,24 +16,29 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2023: Software Developer
+  * itestra GmbH
+  * Duties included: Software Development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: Research Assistant
+  * University of Stuttgart
+  * Duties included: Research and Development of Recommender Systems
+  * Supervisor: Dr. Claudius Proissl
+
+* Fall 2020: Teaching Assistant
+  * University of Stuttgart
+  * Duties included: Supervising students
+  * Supervisor: Professor Dr. Hertrampf
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Deep Learning
+* Software Development
+  * Languages: C, C++, Java, Python
+  * Scrum
+* Scientific Computing
+* Information Security
 
 Publications
 ======
@@ -53,6 +58,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteering
 ======
-* Currently signed in to 43 different slack teams
+* Currently coaching a youth handball team.
