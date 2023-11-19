@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Computer Science, University of Stuttgart, 2022
@@ -44,6 +45,10 @@ Skills
   * Scrum
   * UML
   * Web-Development
+* Languages
+  * German, Bosnian (natively)
+  * English (fluent)
+  * French (B1)
 
 Publications
 ======
