@@ -30,23 +30,23 @@ Here we discuss the numerical results of the algorithm.
 
 ### High-dimensional Free Boundary PDE
 
-abc
+In progress
 
 ### High-dimensional Hamilton-Jacobi-Bellman PDE
 
-abc
+In progress
 
 ### Burgers’ equation
 
-abc
+In progress
 
 ## Neural Network Approximation Theorem for PDEs
 
-abc
+In progress
 
 ## Conclusion
 
-abc
+In progress
 
 ## References
 
