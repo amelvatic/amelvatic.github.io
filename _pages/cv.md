@@ -32,13 +32,18 @@ Work experience
   
 Skills
 ======
-* Machine Learning
-* Deep Learning
+* Information Security
+  * Cryptography
+  * System Security
+  * Web Security
+* Machine Learning, Deep Learning
+* Scientific Computing
 * Software Development
+  * Continuous integration
   * Languages: C, C++, Java, Python
   * Scrum
-* Scientific Computing
-* Information Security
+  * UML
+  * Web-Development
 
 Publications
 ======
