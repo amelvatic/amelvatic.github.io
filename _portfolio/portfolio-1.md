@@ -1,6 +1,6 @@
 ---
 title: "Distributed Voting Application"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "A distributed voting application using Python"
 collection: portfolio
 ---
 
