@@ -1,6 +1,5 @@
 ---
 title: "Distributed Voting Application"
-excerpt: "A distributed voting application using Python"
 collection: portfolio
 categories: 
   - Portfolio
